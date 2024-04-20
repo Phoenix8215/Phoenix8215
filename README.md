@@ -3,6 +3,7 @@ I'am currently a graduate student at  [National Laboratory of Pattern Recognitio
 
 - ✍️I regularly write articles on [zhihu](https://www.zhihu.com/people/fengzhe_love)
 - 🥰I love running, reading and working out.
+- 📚I'm currently learning stochastic process and convex optimization.
 - 🚀My search interests are 3d object detection and tracking on point clouds, BEV and HPC.
 - 🤗I really enjoy talking to talented people.Feel free to [✉️e-mail](fengzhe8215@outlook.com)
 - 😅Actually, I only have worked for ```0x3FC00000```(IEEE754), so don't have much experience in corner cases.
