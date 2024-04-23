@@ -1,3 +1,11 @@
+<p align="center">
+  <a href="https://imgconvert.csdnimg.cn/aHR0cHM6Ly9tbWJpei5xcGljLmNuL21tYml6X3BuZy9aTmRoV05pYjNJUkIzZk5ldWVGZEQ4YnZ4cXlzbXRtRktUTGdFSXZOMUdnTHhDNXV0Y1VBZVJ0T0lJa0hTZTVnVGowamVtZUVOQTJJMHhiU0xjQ3VrVVEvNjQw?x-oss-process=image/format,png" target="_blank" ><img src="https://img.shields.io/badge/公众号-@迈微AI研习社-000000.svg?style=flat-square&amp;logo=WeChat" alt="微信公众号"/></a>
+  <a href="https://www.zhihu.com/people/fengzhe_love"><img src="https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-%40PhoenixStudio-brightblue?style=flat&logo=Zhihu&labelColor=blue&color=black" alt="知乎"/></a>
+  <a href="https://space.bilibili.com/304176852?spm_id_from=333.1007.0.0" ><img src="https://img.shields.io/badge/bilibili-%40PhoenixStudio-brightred?style=flat&logo=bilibili&labelColor=red&color=black" alt="B站"/></a>
+  <a href="https://blog.csdn.net/weixin_41503009?spm=1000.2115.3001.5343" ><img src="https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-%40Phoenix%20Studio8215-brightgreen?style=flat&logo=%E5%85%AC%E4%BC%97%E5%8F%B7&labelColor=green&color=black" alt="微信公众号"/></a>
+</p>
+
+
 ### Hi👋，I'am Phoenix
 I'am currently a graduate student at  [National Laboratory of Pattern Recognition(NLPR)](https://nlpr-web.ia.ac.cn/cn/index.html), [Institute of Automation, Chinese Academy of Sciences (CASIA)](http://english.ia.cas.cn/).
 
