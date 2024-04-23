@@ -6,8 +6,7 @@
   
 </p>
 
-
-### Hi👋，I'am Phoenix
+### <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Kalam&pause=10000&random=false&width=435&lines=Hi%F0%9F%91%8B%EF%BC%8CI'am+Phoenix" alt="Typing SVG" /></a>
 I'am currently a graduate student at  [National Laboratory of Pattern Recognition(NLPR)](https://nlpr-web.ia.ac.cn/cn/index.html), [Institute of Automation, Chinese Academy of Sciences (CASIA)](http://english.ia.cas.cn/).
 
 - ✍️I regularly write articles on <a href="https://www.zhihu.com/people/fengzhe_love"><img src="https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-%40PhoenixStudio-brightblue?style=flat&logo=Zhihu&labelColor=blue&color=black" alt="知乎"/></a>
