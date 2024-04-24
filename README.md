@@ -10,7 +10,7 @@
 I'am currently a graduate student at  [National Laboratory of Pattern Recognition(NLPR)](https://nlpr-web.ia.ac.cn/cn/index.html), [Institute of Automation, Chinese Academy of Sciences (CASIA)](http://english.ia.cas.cn/).
 
 - ✍️I regularly write articles on <a href="https://www.zhihu.com/people/fengzhe_love"><img src="https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-%40PhoenixStudio-brightblue?style=flat&logo=Zhihu&labelColor=blue&color=black" alt="知乎"/></a>
-- 🥰I love running, reading(especially celebrity autobiographies) and working out(I need muscle, I need power💪).
+- 🥰I love running, reading(especially celebrity autobiographies) and working out(💪).
 - 📚I'm currently learning functional analysis.
 - 🚀My search interests are ```3d object detection and tracking on point clouds```, ```BEV``` and ```HPC```.
 - 🤗I really enjoy talking to talented people.Feel free to [✉️e-mail](fengzhe8215@outlook.com)
