@@ -33,6 +33,6 @@ I'am currently a graduate student at  [National Laboratory of Pattern Recognitio
 
 
 <table><tr>
-<td><img src="https://github.com/Phoenix8215/Phoenix8215/blob/main/assets/fuck.jpg" border=0 height="350" width="400"></td>
+<td><img src="https://github.com/Phoenix8215/Phoenix8215/blob/main/assets/fuck.jpg" border=0 height="300" width="400"></td>
 <td><img src="https://github.com/Phoenix8215/Phoenix8215/blob/main/assets/power.gif" border=0 ></td>
 </tr></table>
