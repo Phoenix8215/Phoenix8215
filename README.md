@@ -10,7 +10,7 @@ I'am currently a graduate student at  [National Laboratory of Pattern Recognitio
 
 - ✍️I regularly write articles on <a href="https://www.zhihu.com/people/fengzhe_love"><img src="https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-%40PhoenixStudio-brightblue?style=flat&logo=Zhihu&labelColor=blue&color=black" alt="知乎"/></a>
 - 🥰I love running, reading(especially celebrity autobiographies) and working out(💪).
-- 📚I'm currently learning functional analysis.
+- 📚I'm currently learning ❓.
 - 🚀My search interests are ```SLAM(mainly VSLAM)```, ```BEV&Occ``` and ```HPC```.
 - 🤗I really enjoy talking to talented people.Feel free to [✉️e-mail](fengzhe8215@outlook.com)
 - 😅Actually, I only have worked for ```0x3FC00000```(IEEE754) years, don't have much experience in corner cases, so please don't discuss this with me.
