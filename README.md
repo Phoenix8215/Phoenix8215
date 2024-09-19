@@ -30,6 +30,32 @@ I'am currently a graduate student at  [National Laboratory of Pattern Recognitio
 ## Math skills
 ```mathematical analysis```, ```advanced algebra```, ```numerical analysis```, ```probability theory```, ```mathematical statistics```, ```stochastic process```, ```information theory```, ```convex optimization```, ```time series```
 
+## learn form scratch🥰
+
+<!-- GitHub Extra Pins - https://github.com/anuraghazra/github-readme-stats -->
+<p align="center">
+  <a href="https://github.com/Phoenix8215/learn-ONNX-from-scratch">
+    <img src="https://github-readme-stats-amber-xi-40.vercel.app/api/pin/?username=Phoenix8215&repo=learn-ONNX-from-scratch&show_owner=true&theme=dracula" width=48% height=20%/>
+  </a>
+
+  <a href="https://github.com/Phoenix8215/build_neural_network_from_scratch_CPP">
+    <img src="https://github-readme-stats-amber-xi-40.vercel.app/api/pin/?username=Phoenix8215&repo=build_neural_network_from_scratch_CPP&show_owner=true&theme=dracula" width=48% height=20%/>
+  </a>
+
+  <a href="https://github.com/Phoenix8215/Learn-TensorRT-Plugin-From-Scratch">
+    <img src="https://github-readme-stats-amber-xi-40.vercel.app/api/pin/?username=Phoenix8215&repo=Learn-TensorRT-Plugin-From-Scratch&show_owner=true&theme=dracula" width=48% height=20%/>
+  </a>
+
+  <a href="https://github.com/Phoenix8215/learn-TensorRT-from-scratch">
+    <img src="https://github-readme-stats-amber-xi-40.vercel.app/api/pin/?username=Phoenix8215&repo=learn-TensorRT-from-scratch&show_owner=true&theme=dracula" width=48% height=20%/>
+  </a>
+
+  <a href="https://github.com/Phoenix8215/BuildCudaNeuralNetworkFromScratch">
+    <img src="https://github-readme-stats-amber-xi-40.vercel.app/api/pin/?username=Phoenix8215&repo=BuildCudaNeuralNetworkFromScratch&show_owner=true&theme=dracula" width=48% height=20%/>
+  </a>
+  
+</p>
+
 
 
 <table><tr>
