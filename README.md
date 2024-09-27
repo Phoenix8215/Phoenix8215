@@ -34,6 +34,11 @@ I'am currently a graduate student at  [National Laboratory of Pattern Recognitio
 
 <!-- GitHub Extra Pins - https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
+  
+  <a href="https://github.com/Phoenix8215/A-White-Paper-on-Neural-Network-Deployment">
+    <img src="https://github-readme-stats-amber-xi-40.vercel.app/api/pin/?username=Phoenix8215&repo=A-White-Paper-on-Neural-Network-Deployment&show_owner=true&theme=dracula" width=48% height=20%/>
+  </a>
+  
   <a href="https://github.com/Phoenix8215/learn-ONNX-from-scratch">
     <img src="https://github-readme-stats-amber-xi-40.vercel.app/api/pin/?username=Phoenix8215&repo=learn-ONNX-from-scratch&show_owner=true&theme=dracula" width=48% height=20%/>
   </a>
