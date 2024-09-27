@@ -53,10 +53,17 @@ I'am currently a graduate student at  [National Laboratory of Pattern Recognitio
   <a href="https://github.com/Phoenix8215/BuildCudaNeuralNetworkFromScratch">
     <img src="https://github-readme-stats-amber-xi-40.vercel.app/api/pin/?username=Phoenix8215&repo=BuildCudaNeuralNetworkFromScratch&show_owner=true&theme=dracula" width=48% height=20%/>
   </a>
-  
-</p>
+
+## contributed repos
 
 
+<a href="https://github.com/DefTruth/CUDA-Learn-Notes">
+    <img src="https://github-readme-stats-amber-xi-40.vercel.app/api/pin/?username=DefTruth&repo=CUDA-Learn-Notes&show_owner=true&theme=dracula" width=48% height=20%/>
+  </a>
+
+<a href="https://github.com/kalfazed/tensorrt_starter">
+    <img src="https://github-readme-stats-amber-xi-40.vercel.app/api/pin/?username=kalfazed&repo=tensorrt_starter&show_owner=true&theme=dracula" width=48% height=20%/>
+  </a>
 
 <table><tr>
 <td><img src="https://github.com/Phoenix8215/Phoenix8215/blob/main/assets/fuck.jpg" border=0 height="300" width="400"></td>
