@@ -12,7 +12,7 @@ I'am currently a graduate student at  [National Laboratory of Pattern Recognitio
 - 🥰I love running, reading(especially celebrity autobiographies) and working out(💪).
 - 📚I'm currently learning ❓.
 - 🚀My search interests are ```SLAM(mainly VSLAM)```, ```BEV&Occ``` and ```HPC```.
-- 🤗I really enjoy talking to talented people.Feel free to [✉️e-mail](fengzhe8215@outlook.com)
+- 🤗I really enjoy talking to talented people.Feel free to [✉️e-mail](fengzhe2024@ia.ac.cn)
 - 😅Actually, I only have worked for ```0x3FC00000```(IEEE754) years, don't have much experience in corner cases, so please don't discuss this with me.
 - ⚡Fun fact: Actually when I first use ```Phoenix``` as my user name ,I just want to remember the name of ```Phoenix BIOS```.Well,I know it sounds a bit funny, but that's just the way it is.In China Phoenix represents a big bird rising from the ashes, I later think it's very meaningful so I've been using it to this day
 
