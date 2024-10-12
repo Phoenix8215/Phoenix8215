@@ -70,6 +70,10 @@ I'am currently a graduate student at  [National Laboratory of Pattern Recognitio
     <img src="https://github-readme-stats-amber-xi-40.vercel.app/api/pin/?username=kalfazed&repo=tensorrt_starter&show_owner=true&theme=dracula" width=48% height=20%/>
   </a>
 
+<a href="https://github.com/wang-xinyu/tensorrtx">
+  <img src="https://github-readme-stats-amber-xi-40.vercel.app/api/pin/?username=Wang-Xinyu&repo=tensorrtx&show_owner=true&theme=dracula" width=48% height=20%/>
+</a>
+
 <table><tr>
 <td><img src="https://github.com/Phoenix8215/Phoenix8215/blob/main/assets/fuck.jpg" border=0 height="300" width="400"></td>
 <td><img src="https://github.com/Phoenix8215/Phoenix8215/blob/main/assets/power.gif" border=0 ></td>
