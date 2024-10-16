@@ -59,7 +59,7 @@ I'am currently a graduate student at  [National Laboratory of Pattern Recognitio
     <img src="https://github-readme-stats-amber-xi-40.vercel.app/api/pin/?username=Phoenix8215&repo=BuildCudaNeuralNetworkFromScratch&show_owner=true&theme=dracula" width=48% height=20%/>
   </a>
 
-## contributed repos
+## contributed repos(in no particular order)
 
 
 <a href="https://github.com/DefTruth/CUDA-Learn-Notes">
