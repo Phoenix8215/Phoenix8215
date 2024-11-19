@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://www.zhihu.com/people/fengzhe_love"><img src="https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-%40PhoenixStudio-brightblue?style=flat&logo=Zhihu&labelColor=blue&color=black" alt="知乎"/></a>
+<!--   <a href="https://www.zhihu.com/people/fengzhe_love"><img src="https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-%40PhoenixStudio-brightblue?style=flat&logo=Zhihu&labelColor=blue&color=black" alt="知乎"/></a> -->
 </p>
 
 ### <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Kalam&pause=10000&random=false&width=435&lines=Hi%F0%9F%91%8B%EF%BC%8CI'am+Phoenix" alt="Typing SVG" /></a>
