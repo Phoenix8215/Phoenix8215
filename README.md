@@ -1,8 +1,5 @@
 <p align="center">
   <a href="https://www.zhihu.com/people/fengzhe_love"><img src="https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-%40PhoenixStudio-brightblue?style=flat&logo=Zhihu&labelColor=blue&color=black" alt="知乎"/></a>
-  <a href="https://github.com/Phoenix8215/Phoenix8215/blob/main/assets/weixin_gongzhonghao.jpg" ><img src="https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-%40Phoenix%20Studio8215-brightgreen?style=flat&logo=%E5%85%AC%E4%BC%97%E5%8F%B7&labelColor=green&color=black" alt="微信公众号"/></a>
-  <a href="https://space.bilibili.com/304176852?spm_id_from=333.1007.0.0" ><img src="https://img.shields.io/badge/bilibili-%40PhoenixStudio-brightred?style=flat&logo=bilibili&labelColor=red&color=black" alt="B站"/></a>
-  <a href="https://www.xiaohongshu.com/user/profile/5cfd008d000000001003c955" ><img src="https://img.shields.io/badge/%E5%B0%8F%E7%BA%A2%E4%B9%A6-%40PhoenixStudio-brightgreen?logo=%E5%B0%8F%E7%BA%A2%E4%B9%A6&logoColor=red&label=%E5%B0%8F%E7%BA%A2%E4%B9%A6&labelColor=red&color=black" alt="小红书"/></a>
 </p>
 
 ### <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Kalam&pause=10000&random=false&width=435&lines=Hi%F0%9F%91%8B%EF%BC%8CI'am+Phoenix" alt="Typing SVG" /></a>
