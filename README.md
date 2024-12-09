@@ -56,7 +56,7 @@ I'am currently a graduate student at  [National Laboratory of Pattern Recognitio
     <img src="https://github-readme-stats-amber-xi-40.vercel.app/api/pin/?username=Phoenix8215&repo=BuildCudaNeuralNetworkFromScratch&show_owner=true&theme=dracula" width=48% height=20%/>
   </a>
 
-## repos
+## contributed repos
 
 
 <a href="https://github.com/DefTruth/CUDA-Learn-Notes">
@@ -71,7 +71,7 @@ I'am currently a graduate student at  [National Laboratory of Pattern Recognitio
   <img src="https://github-readme-stats-amber-xi-40.vercel.app/api/pin/?username=Wang-Xinyu&repo=tensorrtx&show_owner=true&theme=dracula" width=48% height=20%/>
 </a>
 
-<a href="https://github.com/wang-xinyu/tensorrtx">
+<a href="https://github.com/huawei-noah/Efficient-AI-Backbones">
   <img src="https://github-readme-stats-amber-xi-40.vercel.app/api/pin/?username=huawei-noah&repo=Efficient-AI-Backbones&show_owner=true&theme=dracula" width=48% height=20%/>
 </a>
 
