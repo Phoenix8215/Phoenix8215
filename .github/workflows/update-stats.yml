@@ -15,9 +15,9 @@ jobs:
   update:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
 
-      - uses: actions/setup-node@v4
+      - uses: actions/setup-node@v5
         with:
           node-version: 22
 
@@ -27,7 +27,7 @@ jobs:
           cd "$RUNNER_TEMP/grs"
           git fetch -q --depth 1 https://github.com/anuraghazra/github-readme-stats.git 54a7985aeefda00d5eadb55b80c17c7f976c37d2
           git checkout -q FETCH_HEAD
-          npm ci --omit=dev --silent
+          npm ci --omit=dev --ignore-scripts --silent
 
       - name: Render cards
         env:
