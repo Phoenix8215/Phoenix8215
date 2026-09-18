@@ -31,7 +31,7 @@ jobs:
 
       - name: Render cards
         env:
-          PAT_1: ${{ secrets.GITHUB_TOKEN }}
+          PAT_1: ${{ secrets.STATS_TOKEN }}
           GH_USER: ${{ github.repository_owner }}
           OUT_DIR: ${{ github.workspace }}/generated
         run: |
