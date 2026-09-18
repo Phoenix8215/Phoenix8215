@@ -1,0 +1,52 @@
+# Renders the stats cards in README.md with github-readme-stats inside Actions,
+# instead of hot-linking the public Vercel instance (which is often rate-limited
+# and returns 503 / broken images).
+name: Update stats cards
+
+on:
+  schedule:
+    - cron: "17 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Fetch github-readme-stats (pinned)
+        run: |
+          git init -q "$RUNNER_TEMP/grs"
+          cd "$RUNNER_TEMP/grs"
+          git fetch -q --depth 1 https://github.com/anuraghazra/github-readme-stats.git 54a7985aeefda00d5eadb55b80c17c7f976c37d2
+          git checkout -q FETCH_HEAD
+          npm ci --omit=dev --silent
+
+      - name: Render cards
+        env:
+          PAT_1: ${{ secrets.GITHUB_TOKEN }}
+          GH_USER: ${{ github.repository_owner }}
+          OUT_DIR: ${{ github.workspace }}/generated
+        run: |
+          cp .github/scripts/generate-stats.mjs "$RUNNER_TEMP/grs/"
+          cd "$RUNNER_TEMP/grs"
+          node generate-stats.mjs
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add generated
+          if git diff --cached --quiet; then
+            echo "Cards unchanged"
+          else
+            git commit -q -m "chore: update stats cards"
+            git push -q
+          fi
